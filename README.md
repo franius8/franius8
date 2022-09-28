@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franius8&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franius8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franius8&hide_title=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franius8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
